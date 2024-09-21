@@ -1,0 +1,2 @@
+mpu6050 source from
+https://github.com/vngreentech/STM32_F4_MPU6050_RAW/blob/main/Core/Src/main.c
